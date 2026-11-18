@@ -1,6 +1,5 @@
 #!/bin/bash
-# Inventario de hardware para la Tarea 2 (Naix un sistema)
-# Uso: bash inventario.sh
+# Inventario de hardware para la Tarea 2
 
 sudo apt install -y smartmontools ethtool pciutils lshw >/dev/null 2>&1
 F=~/inventario_$(hostname)_$(date +%F).txt
