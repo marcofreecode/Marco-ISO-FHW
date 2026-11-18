@@ -1,6 +1,6 @@
 # Inventario · Equipo de clase
 
-> Datos obtenidos el 18/11/2026 con `dmidecode`, `lscpu`, `free`, `lsblk`, `smartctl`, `ip`, `ethtool`, `lspci`, `lsusb` y `upower`.
+> Datos obtenidos con `dmidecode`, `lscpu`, `free`, `lsblk`, `smartctl`, `ip`, `ethtool`, `lspci`, `lsusb` y `upower`.
 
 ## Equipo y firmware
 
@@ -36,7 +36,7 @@
 | Disco | Tipo | Capacidad | Conexión | Estado SMART | Uso |
 |---|---|---|---|---|---|
 | Corsair EX100U | SSD externo | 1 TB | USB 3 | No legible por USB | **Disco de clase**: Linux Mint y VMs |
-| Samsung MZVMA1T0HCLD | SSD NVMe interno | 1 TB | PCIe NVMe | PASSED | Disco interno del portátil |
+
 
 **Particiones del disco de clase**
 
@@ -79,8 +79,4 @@
 |---|---|
 | Batería | ASUS · 50,4 Wh · 100 % de capacidad |
 
-## Observaciones
 
-- El sistema y las máquinas virtuales funcionan desde un **SSD externo por USB**. Es más lento que el NVMe interno y es el principal posible cuello de botella de disco.
-- La RAM tiene las **2 ranuras ocupadas**. Para ampliar hasta 64 GB habría que sustituir los módulos.
-- Hay **173 GB libres** en `/home` para las máquinas virtuales.
