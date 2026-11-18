@@ -45,7 +45,7 @@
 
 ### WinSrv25
 
-- **RAM**: 2048MB
+- **RAM**: 4096MB
 - **CPU**: 2 Procesadores
 - **Almacenamiento**: 50 GB
 - **Sistema Operativo**: Windows Server
