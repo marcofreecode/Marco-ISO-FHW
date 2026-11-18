@@ -13,8 +13,8 @@
 
 ### Portatil
 
-- **RAM**: 
-- **CPU**: 
+- **RAM**: 32 GB
+- **CPU**: Intel Core Ultra 5 125H
 - **Almacenamiento**: 1 TB 
 - **Sistema Operativo**: Linux Mint
-- **Tarjeta Grafica**: 
+- **Tarjeta Grafica**: Interl Corporation Meteor Lake-P
