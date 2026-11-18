@@ -53,7 +53,7 @@
 
 ### Proxmox VE 1/2/3
 
-- **RAM**: 2048MB
+- **RAM**: 2048MB (se subira a 3 GB para realizar pruebas)
 - **CPU**: 2 Procesadores
 - **Almacenamiento**: 40 GB
 - **Sistema Operativo**: Proxmox VE

@@ -1,4 +1,6 @@
-# Inventario · Equipo de casa
+# T2 - Equipos y perifericos
+
+# Inventario | Equipo de casa
 
 > Datos obtenidos con `dmidecode`, `lscpu`, `free`, `lsblk`, `smartctl`, `ip`, `ethtool`, `lspci`, `lsusb` y `upower`.
 

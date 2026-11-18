@@ -1,4 +1,6 @@
-# Inventario · Equipo de clase
+# T2 - Equipos y perifericos
+
+# Inventario | Equipo de clase
 
 > Datos obtenidos con `dmidecode`, `lscpu`, `free`, `lsblk`, `smartctl`, `ip`, `ethtool`, `lspci`, `lsusb` y `upower`.
 
