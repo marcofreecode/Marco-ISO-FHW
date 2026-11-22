@@ -63,11 +63,6 @@ En el log en vivo salen en rojo los ping de 192.168.41.100 a 8.8.8.8 con accion 
 
 Y en verde las conexiones del cliente a internet (puerto 443 y DNS al 53) con accion pass y etiqueta PERMITIDO.
 
-## Copia
-
-![copia](../../../Medios/T5/opn_descarga_seg.png)
-
-Desde Sistema > Configuracion > Copias de seguridad se descarga el xml con toda la configuracion y se guarda en TrueNAS.
 
 ## Prueba de fallo y restauracion
 

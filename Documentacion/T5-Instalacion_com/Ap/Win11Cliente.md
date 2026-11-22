@@ -33,12 +33,6 @@ El ping a 8.8.8.8 no responde porque esta bloqueado en el firewall. En el tracer
 
 ![actualizado](../../../Medios/T5/cliwin_actualizado.png)
 
-## Copia
-
-![copia](../../../Medios/T5/cliwin_copia.png)
-
-Se guarda la configuracion de red en un txt en la carpeta de TrueNAS. No se hace imagen del sistema porque es un cliente sin datos importantes y se puede reinstalar.
-
 ## Dominio
 
 No se une al dominio porque en el diseno no se decidio hacerlo.

@@ -66,19 +66,6 @@ En el log salen las conexiones de ether2 a ether1 como PERMITIDO y los ping a 8.
 
 El primer salto ahora es el MikroTik (192.168.41.2) en vez de SrvCom.
 
-## Copia
-
-![copia](../../../Medios/T5/mikro_copia.png)
-
-Se exporta la configuracion a mikrotik-config.rsc.
-
-![contenido](../../../Medios/T5/mikro_copiacontenido.png)
-
-El rsc tiene en texto las listas WAN y LAN, la IP, el DHCP de ether1, el DNS, las reglas del firewall y el NAT.
-
-![backup](../../../Medios/T5/mikrotikBackupBUENO.png)
-
-Tambien se hace un backup completo (mikrotik-backup.backup). Los dos ficheros se descargan y se guardan en TrueNAS.
 
 ## Prueba de fallo y restauracion
 

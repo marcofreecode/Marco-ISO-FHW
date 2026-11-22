@@ -45,16 +45,6 @@ El ping a 8.8.8.8 no responde porque lo bloquea nftables. En el tracert el prime
 
 Arriba salen conexiones de Win11Cliente (192.168.41.100) a internet por los puertos 443 y 80 marcadas como PERMITIDO. Abajo salen los ping de Win11Cliente a 8.8.8.8 marcados como BLOQUEADO.
 
-## Copia
-
-![copia](../../../Medios/T5/copiasrvcom.png)
-
-Se guarda en un tar.gz la configuracion de nftables, la red y el reenvio de paquetes (99-router.conf). Con tar tzf se comprueba lo que hay dentro.
-
-![copia en nas](../../../Medios/T5/srvcom_poniendocopia_nas.png)
-
-La copia se sube a la carpeta compartida de TrueNAS con smbclient.
-
 ## Prueba de fallo y restauracion
 
 ![antes](../../../Medios/T5/fallo1.png)
