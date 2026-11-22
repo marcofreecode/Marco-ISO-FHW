@@ -19,3 +19,6 @@
 | PROXMOX2 | 2 | intnet41 | 192.168.41.22 | 255.255.255.0 | 192.168.41.1 |
 | PROXMOX3 | 1 | proxmox | 192.168.141.23 | 255.255.255.0 | - |
 | PROXMOX3 | 2 | intnet41 | 192.168.41.23 | 255.255.255.0 | 192.168.41.1 |
+
+
+Nota: en el montaje el cluster de Proxmox acabo funcionando por la red intnet41 (192.168.41.21, .22 y .23) porque pve3 se unio con esa IP. La red proxmox (192.168.141.0/24) sigue configurada en los nodos pero el cluster no la usa. Ver Problemas.md de la T5.
