@@ -12,7 +12,7 @@ Los RAID se hacen en TrueNAS. TrueNAS usa ZFS y cada tipo de RAID tiene su nombr
 
 ![discos vbox](../../../Medios/T6/t6_discos_vbox.png)
 
-Se anaden 7 discos de 2 GB (raid1.vdi a raid7.vdi) a la maquina de TrueNAS en VirtualBox. Los otros discos de 20 GB son el del sistema y los dos del pool copias.
+Se añaden 7 discos de 2 GB (raid1.vdi a raid7.vdi) a la maquina de TrueNAS en VirtualBox. Los otros discos de 20 GB son el del sistema y los dos del pool copias.
 
 ![discos truenas](../../../Medios/T6/t6-discos-truenas.png)
 

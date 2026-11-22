@@ -3,7 +3,7 @@
 Se mide el equipo de casa (i7-12700KF, 20 hilos, 32 GB de RAM, Linux Mint) con cuatro cargas distintas.
 
 Herramientas:
-- Monitor del sistema (pestana Recursos) para ver CPU, RAM, red y disco en grafica.
+- Monitor del sistema (pestaña Recursos) para ver CPU, RAM, red y disco en grafica.
 - free -h para la memoria y vmstat 2 5 para CPU (us, sy, id, wa), swap (si, so) y disco (bi, bo).
 
 En cada carga se espera un minuto despues de arrancar las maquinas.

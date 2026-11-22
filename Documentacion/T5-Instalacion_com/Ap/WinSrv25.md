@@ -39,14 +39,14 @@ Ya se entra como Administrador@srv41.local y el sistema esta actualizado.
 
 ## Que es un dominio
 
-Un dominio es un grupo de equipos y usuarios que se gestionan desde un servidor central, el controlador de dominio. Los usuarios, contrasenas y permisos estan guardados en el servidor (en Active Directory) y no en cada equipo.
+Un dominio es un grupo de equipos y usuarios que se gestionan desde un servidor central, el controlador de dominio. Los usuarios, contraseñas y permisos estan guardados en el servidor (en Active Directory) y no en cada equipo.
 
 ## Para que sirve
 
 En una empresa la gestion centralizada aporta:
 - Cada trabajador entra con el mismo usuario en cualquier equipo del dominio.
 - Los usuarios se crean, se cambian o se bloquean desde un solo sitio. Si alguien se va de la empresa se desactiva su cuenta y ya no puede entrar en ningun equipo.
-- Con las directivas de grupo (GPO) se aplican las mismas normas a todos los equipos a la vez: contrasenas seguras, fondo de pantalla, programas, bloquear el USB...
+- Con las directivas de grupo (GPO) se aplican las mismas normas a todos los equipos a la vez: contraseñas seguras, fondo de pantalla, programas, bloquear el USB...
 - Los permisos de carpetas compartidas e impresoras se dan por grupos (por ejemplo, contabilidad) y no usuario por usuario.
 - Se ahorra mucho tiempo porque no hay que ir equipo por equipo.
 
@@ -54,4 +54,4 @@ Sin dominio cada equipo tiene sus propios usuarios y habria que configurarlos un
 
 ## Como se une un equipo
 
-Para meter un cliente en el dominio hay que ponerle como DNS la IP del servidor (192.168.41.30) para que encuentre srv41.local, y despues unirlo desde Sistema > Dominio con un usuario de Admins. del dominio. En este proyecto los clientes no se unen porque no se decidio en el diseno.
+Para meter un cliente en el dominio hay que ponerle como DNS la IP del servidor (192.168.41.30) para que encuentre srv41.local, y despues unirlo desde Sistema > Dominio con un usuario de Admins. del dominio. En este proyecto los clientes no se unen porque no se decidio en el diseño.

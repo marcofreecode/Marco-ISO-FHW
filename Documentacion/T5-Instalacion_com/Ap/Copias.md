@@ -46,7 +46,7 @@ Desde Sistema > Configuracion > Copias de seguridad se descarga el xml, que tien
 
 ![storage](../../../Medios/T5/pve_backup.png)
 
-Se anade la carpeta backupa de TrueNAS como almacenamiento SMB/CIFS en Proxmox, para guardar backups. Sirve para los tres nodos.
+Se añade la carpeta backupa de TrueNAS como almacenamiento SMB/CIFS en Proxmox, para guardar backups. Sirve para los tres nodos.
 
 ![backup ct](../../../Medios/T5/pve_backup1.png)
 

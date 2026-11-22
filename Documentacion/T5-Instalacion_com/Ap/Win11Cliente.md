@@ -35,4 +35,4 @@ El ping a 8.8.8.8 no responde porque esta bloqueado en el firewall. En el tracer
 
 ## Dominio
 
-No se une al dominio porque en el diseno no se decidio hacerlo.
+No se une al dominio porque en el diseño no se decidio hacerlo.

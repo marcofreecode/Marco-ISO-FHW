@@ -86,11 +86,11 @@ La VM ya esta en pve2.
 | Copiado | 4,3 GB | 8,6 GB |
 | Tiempo | 21 s | 32 s |
 
-El CT tarda menos porque su disco es mas pequeno. En los dos casos se copia el disco entero aunque casi no tenga datos (el CT solo usa 571 MB), asi que el tiempo depende del tamano del disco y no de lo que hay dentro.
+El CT tarda menos porque su disco es mas pequeño. En los dos casos se copia el disco entero aunque casi no tenga datos (el CT solo usa 571 MB), asi que el tiempo depende del tamaño del disco y no de lo que hay dentro.
 
 Mejoras:
 - Usar almacenamiento compartido (por ejemplo NFS en TrueNAS o Ceph). Asi el disco no se copia y la migracion tarda segundos.
-- Hacer los discos mas pequenos si no hace falta tanto espacio.
+- Hacer los discos mas pequeños si no hace falta tanto espacio.
 - Usar replicacion con ZFS para que el otro nodo ya tenga casi todo copiado.
 
 ## Virtualizar

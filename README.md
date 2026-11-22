@@ -2,9 +2,8 @@
 
 ASIX ThinkLab - 1 ASIX - CIP FP Batoi
 
-Entorno de pruebas individual del proyecto Naix un sistema: una copia pequena del sistema de la empresa (comunicaciones, virtualizacion, almacenamiento, dominio y clientes) montada con maquinas virtuales en VirtualBox.
+Entorno de pruebas individual del proyecto Naix un sistema: una copia pequeña del sistema de la empresa (comunicaciones, virtualizacion, almacenamiento, dominio y clientes) montada con maquinas virtuales en VirtualBox.
 
-En el repositorio no hay contrasenas ni credenciales.
 
 ## Tareas
 
@@ -12,11 +11,10 @@ En el repositorio no hay contrasenas ni credenciales.
 |---|---|---|---|
 | T0 | Montaje del entorno | [Limitaciones](Documentacion/T0-Montaje/Ap/Limitaciones.md) | [Esquema](Documentacion/T0-Montaje/+Ap/Esquema_mv.md), [Recursos](Documentacion/T0-Montaje/+Ap/Recursos.md) |
 | T2 | Equipos y perifericos | [Inventario clase](Documentacion/T2-Equipos_Perifericos/Ap/Inventario-Clase.md), [Inventario casa](Documentacion/T2-Equipos_Perifericos/Ap/Inventario-Casa.md), [Comparativa](Documentacion/T2-Equipos_Perifericos/Ap/Comparativa.md) | - |
-| T4 | Diseno fisico y logico | [Esquema de red](Documentacion/T4-Diseño_fisico_logico/Ap/Esquema_red.md), [Direcciones](Documentacion/T4-Diseño_fisico_logico/Ap/Direcciones-Previstas.md) | [Pruebas de red](Documentacion/T4-Diseño_fisico_logico/Ap+/Pruebas-red.md) |
+| T4 | Diseño fisico y logico | [Esquema de red](Documentacion/T4-Diseño_fisico_logico/Ap/Esquema_red.md), [Direcciones](Documentacion/T4-Diseño_fisico_logico/Ap/Direcciones-Previstas.md) | [Pruebas de red](Documentacion/T4-Diseño_fisico_logico/Ap+/Pruebas-red.md) |
 | T5 | Instalacion y comunicaciones | [SrvCom](Documentacion/T5-Instalacion_com/Ap/SrvCom.md), [MikroTik](Documentacion/T5-Instalacion_com/Ap/MikroTik.md), [OPNsense](Documentacion/T5-Instalacion_com/Ap/OPNsense.md), [TrueNAS](Documentacion/T5-Instalacion_com/Ap/TrueNAS.md), [Proxmox](Documentacion/T5-Instalacion_com/Ap/Proxmox.md), [WinSrv25](Documentacion/T5-Instalacion_com/Ap/WinSrv25.md), [Win11Cliente](Documentacion/T5-Instalacion_com/Ap/Win11Cliente.md), [LinuxCliente](Documentacion/T5-Instalacion_com/Ap/LinuxCliente.md), [Copias](Documentacion/T5-Instalacion_com/Ap/Copias.md), [Hashes](Documentacion/T5-Instalacion_com/Ap/Hashes.md), [Problemas](Documentacion/T5-Instalacion_com/Ap/Problemas.md) | - |
 | T6 | Almacenamiento y RAID | [RAID](Documentacion/T6-Almacenamiento/Ap/RAID.md) | - |
 | T7 | Rendimiento | [Informe](Documentacion/T7-Rendimiento/Ap/Informe-rendimiento.md) | - |
-| T8 | Prueba final (25/11) | - | - |
 
 ## Equipos
 

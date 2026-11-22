@@ -21,4 +21,4 @@ enp0s3 tiene la 192.168.41.101 fija y la ruta por defecto va por SrvCom (192.168
 
 ## Dominio
 
-No se une al dominio porque en el diseno no se decidio hacerlo.
+No se une al dominio porque en el diseño no se decidio hacerlo.
